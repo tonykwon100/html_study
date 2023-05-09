@@ -13,3 +13,5 @@
 * [[2022 30분 요약 강좌 시즌 1](리뉴얼)JavaScript 3부](https://youtu.be/YMih35bOSI4)
 
 
+<iframe width="1919" height="1079" src="https://www.youtube.com/embed/PQymWXKehlk?list=PLkfUwwo13dlUhRuBra9j6YCypYRdifd2O" title="(신) 올 뉴 30분 요약강좌(HTML) - 2022년까지 업데이트" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+

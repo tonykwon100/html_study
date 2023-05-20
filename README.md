@@ -1,8 +1,11 @@
 # html_study
 
 
-### Fonts
+### Free Fonts
 * [https://fonts.google.com/](https://fonts.google.com/)
+
+### Free Icons
+* [https://www.flaticon.com/kr/authors/google](https://www.flaticon.com/kr/authors/google)
 
 ### Web hosting with Github
 * [https://pages.github.com/](https://pages.github.com/)

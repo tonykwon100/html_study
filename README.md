@@ -1,6 +1,9 @@
 # html_study
 
 
+### WEB Font
+* [https://fonts.google.com/](https://fonts.google.com/)
+
 ### Reference
 * [(신) 올 뉴 30분 요약강좌(HTML) - 2022년까지 업데이트](https://youtu.be/PQymWXKehlk?list=PLkfUwwo13dlUhRuBra9j6YCypYRdifd2O)
 * [https://github.com/paullabkorea/tutorialproject](https://github.com/paullabkorea/tutorialproject)

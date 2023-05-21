@@ -1,0 +1,28 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+</head>
+<body>
+    <header> HEADER </header>
+    <div>
+        <input id="input_text" type="text"></input>
+        <button id="cbtn">click</button>
+        <p id="output_text">output text</p>    
+    </div>
+
+    <script>
+        cbtn = document.querySelector("#cbtn");
+        cbtn.onclick = function(){
+            console.log("onclick");
+            inputText = document.querySelector("#input_text");
+            outputText = document.querySelector("#output_text");
+            console.log(inputText.value);
+            outputText.innerText = inputText.value;
+        }
+    </script>
+</body>
+</html>

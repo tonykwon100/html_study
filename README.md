@@ -11,6 +11,9 @@
 * [https://pages.github.com/](https://pages.github.com/)
 * https://tonykwon100.github.io
 
+### Java Script 표준 내장 객체
+* [https://developer.mozilla.org/ko/docs/Web/JavaScript/Reference/Global_Objects](https://developer.mozilla.org/ko/docs/Web/JavaScript/Reference/Global_Objects)
+
 ### Reference
 * [Do it! HTML+CSS+자바스크립트 웹 표준의 정석](https://youtu.be/XdFWx0lO5B4)
 * [(신) 올 뉴 30분 요약강좌(HTML) - 2022년까지 업데이트](https://youtu.be/PQymWXKehlk?list=PLkfUwwo13dlUhRuBra9j6YCypYRdifd2O)

@@ -1,7 +1,21 @@
 # html_study
 
 
+### Free Fonts
+* [https://fonts.google.com/](https://fonts.google.com/)
+
+### Free Icons
+* [https://www.flaticon.com/kr/authors/google](https://www.flaticon.com/kr/authors/google)
+
+### Web hosting with Github
+* [https://pages.github.com/](https://pages.github.com/)
+* https://tonykwon100.github.io
+
+### Java Script 표준 내장 객체
+* [https://developer.mozilla.org/ko/docs/Web/JavaScript/Reference/Global_Objects](https://developer.mozilla.org/ko/docs/Web/JavaScript/Reference/Global_Objects)
+
 ### Reference
+* [Do it! HTML+CSS+자바스크립트 웹 표준의 정석](https://youtu.be/XdFWx0lO5B4)
 * [(신) 올 뉴 30분 요약강좌(HTML) - 2022년까지 업데이트](https://youtu.be/PQymWXKehlk?list=PLkfUwwo13dlUhRuBra9j6YCypYRdifd2O)
 * [https://github.com/paullabkorea/tutorialproject](https://github.com/paullabkorea/tutorialproject)
 * [How To Build A Custom Raspberry Pi Router // OpenWrt on RPi 4](https://youtu.be/_pBf2hGqXL8)

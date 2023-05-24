@@ -15,7 +15,7 @@
 * [https://developer.mozilla.org/ko/docs/Web/JavaScript/Reference/Global_Objects](https://developer.mozilla.org/ko/docs/Web/JavaScript/Reference/Global_Objects)
 
 ### Reference
-* [Do it! HTML+CSS+자바스크립트 웹 표준의 정석](https://youtu.be/XdFWx0lO5B4)
+* [Do it! HTML+CSS+자바스크립트 웹 표준의 정석]()https://youtu.be/XdFWx0lO5B4?list=PLG7te9eYUi7tS_nx58Z1Zi9Iqt0JEQ1Is)
 * [(신) 올 뉴 30분 요약강좌(HTML) - 2022년까지 업데이트](https://youtu.be/PQymWXKehlk?list=PLkfUwwo13dlUhRuBra9j6YCypYRdifd2O)
 * [https://github.com/paullabkorea/tutorialproject](https://github.com/paullabkorea/tutorialproject)
 * [How To Build A Custom Raspberry Pi Router // OpenWrt on RPi 4](https://youtu.be/_pBf2hGqXL8)

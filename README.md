@@ -32,3 +32,7 @@
 * 
 * [실전 HTML5 CSS3 동영상강좌 30강좌](https://youtu.be/fVnuQAjmcks?list=PLOJ3X9PwqLzsba6W-e6LjFqpXOBquCU7W)
 * [실전 HTML5 CSS3 동영상강좌 30강좌 소스코드](https://github.com/funnycom/html5-css3)
+
+### Reference for CGI
+* [Youtube: [자바 웹 개발 워크북#018] 3.1 CGI 프로그램과 서블릿](https://youtu.be/wdPAvUuyu8A?list=PLTEeGHE5dNEO7fGBYIhZN59dcWufaCSok)
+* 

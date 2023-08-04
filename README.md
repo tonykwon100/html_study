@@ -36,3 +36,5 @@
 ### Reference for CGI
 * [Youtube: [자바 웹 개발 워크북#018] 3.1 CGI 프로그램과 서블릿](https://youtu.be/wdPAvUuyu8A?list=PLTEeGHE5dNEO7fGBYIhZN59dcWufaCSok)
 * [Youtube: 09.01.Using C on the WWW With CGI](https://youtu.be/IU88XroupIQ?list=PLDhd2asKgB6Wo2uxQS3C9PBG_wjNGQLnP)
+* [youtube_episode_cgi : source](https://gitlab.com/greggink/youtube_episode_cgi)
+* [C로 된 웹 프로그래밍(CGI)](https://youtu.be/rFaRFCyewpA)
